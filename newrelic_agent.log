@@ -331,3 +331,6 @@
 {"name":"newrelic","hostname":"hakimu-mbp","pid":5939,"component":"new_relic_response","level":10,"response":{"return_value":[]},"msg":"Deserialized from collector:","time":"2014-09-13T20:48:03.938Z","v":0}
 {"name":"newrelic","hostname":"hakimu-mbp","pid":5939,"component":"mapper","level":20,"msg":"No new metric mappings from server.","time":"2014-09-13T20:48:03.938Z","v":0}
 {"name":"newrelic","hostname":"hakimu-mbp","pid":5939,"level":20,"msg":"No errors to send.","time":"2014-09-13T20:48:03.938Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":5962,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-09-13T20:50:40.229Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":5962,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/559725/applications/5153434","time":"2014-09-13T20:50:41.013Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":5962,"component":"collector_api","level":30,"msg":"Connected to collector-133.newrelic.com:443 with agent run ID 1328828384.","time":"2014-09-13T20:50:41.014Z","v":0}
