@@ -1,0 +1,12 @@
+{
+	"name" : "rum_express_node",
+	"version" : "0.0.1",
+	"private" : true,
+	"dependencies" : {
+		"express": "3.2.4",
+		"handlebars" : "1.0.12",
+		"newrelic" : "1.11.0",
+		"express-handlebars" : "*"
+
+	}
+}
